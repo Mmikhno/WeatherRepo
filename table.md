@@ -1,4 +1,4 @@
- <table border = "1">
+<table border = "1">
       <thead>
         <th>
           Признак погодного явления
@@ -7,7 +7,7 @@
           Погодное явление
         </th>
         <th>
-          Код рекомендации
+          Код
         </th>
         <th>
             Строка
@@ -212,7 +212,7 @@
                 <td>stormPrediction = true</td>
                 <td>Гроза</td>
                 <td>10</td>
-                <td>AVOID_PLACES_UNPROTECTED_FROM_LIGHTNING</td>
+                <td>AVOID_PLACES_UNPROTECTED<br>_FROM_LIGHTNING</td>
                 <td>Избегайте нахождение в незащищённых от молнии местах</td>
             </tr>
             <tr>
@@ -226,7 +226,7 @@
                 <td>windType = 4</td>
                 <td>Ураганный ветер</td>
                 <td>9</td>
-                <td>WAIT_OUT_BAD_WEATHER_IN_SHELTER</td>
+                <td>WAIT_OUT_BAD_WEATHER_<br>IN_SHELTER</td>
                 <td>Переждите плохую погоду в укрытии</td>
             </tr>
             <tr>
