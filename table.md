@@ -476,7 +476,7 @@
             <td>1,0 – 14,999</td>
             <td>Слабый ветер</td>
             <td>
-                <img src="./Icons/weak_wind" alt="weak_wind" width="70" height="40">
+                <img src="./Icons/weak_wind.png" alt="weak_wind" width="70" height="40">
             </td>
             <td>В описании<br>не выводится</td>
         </tr>
